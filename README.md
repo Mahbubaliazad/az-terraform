@@ -2,5 +2,5 @@
 
 ![architecture_diagram](architecture.png)
 
-## Credit:
+### Credit:
 Piyush Sachdeva
